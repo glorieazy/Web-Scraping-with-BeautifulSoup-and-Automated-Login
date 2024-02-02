@@ -1,5 +1,8 @@
                                           ONLY FOR ACADEMIC PURPOSES
                                 Efficient Data Extraction from Dynamic Websites
+                           This script is only applicable to the provided link within, 
+               it continues to function as far as the website's structures remain unchanged. 
+
 
 """
 
