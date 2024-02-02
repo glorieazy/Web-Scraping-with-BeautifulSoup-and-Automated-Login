@@ -2,6 +2,7 @@
             Efficient Data Extraction from Dynamic Websites
 
 """
+
     - Author: GLORY ABORISADE
 
     - Project Title: Automatic login to a website and data parsing using the “Beautiful Soup” package.
